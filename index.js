@@ -1,0 +1,1 @@
+export { checkWinnerOneDirection } from './src/checkWinner'
